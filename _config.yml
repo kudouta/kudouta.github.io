@@ -68,10 +68,10 @@ footer:
   links:
     - label: "X"
       icon: "fab fa-fw fa-square-x-twitter"
-      url: "https://twitter.com/"
+      url: "https://x.com/kudouta"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/kudouta"
 
 defaults:
   # _posts
