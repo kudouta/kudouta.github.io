@@ -59,9 +59,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "kudouta"
   avatar : "/assets/images/7Lq1voar_400x400.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Software engineer"
   location: "Japan"
 
 footer:
