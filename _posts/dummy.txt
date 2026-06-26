@@ -10,8 +10,8 @@ tags:
 excerpt: "一覧やSNSシェアに表示される1〜2文の要約をここに書きます。"
 toc: true
 toc_sticky: true
-header:
-  teaser: /assets/images/posts/sample-teaser.jpg   # 一覧・関連記事のサムネ（任意）
+# header:
+#   teaser: /assets/images/posts/sample-teaser.jpg   # 一覧・関連記事のサムネ（任意）
 # header:
 #   image: /assets/images/posts/sample-header.jpg  # ページ上部の大きな画像にしたい場合はこちらを使う
 ---
