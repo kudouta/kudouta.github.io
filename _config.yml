@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "kudouta"
   avatar : "/assets/images/7Lq1voar_400x400.jpg"
-  bio    : "Software engineer"
+  #bio    : "Software engineer"
   location: "Japan"
 
 footer:
