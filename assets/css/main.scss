@@ -23,5 +23,8 @@
       color: inherit;        // ホバー時も色を変えない
       text-decoration: none; // ホバー時も下線を出さない
     }
-  }
+  }  
+}
+.archive__item-teaser {
+  border-radius: 8px;   // 角の丸み。数値を大きくするほど丸くなる
 }
