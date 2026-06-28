@@ -22,6 +22,7 @@ twitter_username: kudouta
 github_username: kudouta
 minimal_mistakes_skin: dark
 search: true
+og_image: /assets/images/ogp.png
 
 # Build settings
 markdown: kramdown
