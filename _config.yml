@@ -16,7 +16,8 @@
 locale: "ja-JP"
 title: 🍡on🍡
 email:
-description: "テキトーなまとめ"
+description: >-
+  テキトーなまとめ。
 twitter_username: kudouta
 github_username: kudouta
 minimal_mistakes_skin: dark
